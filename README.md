@@ -118,7 +118,7 @@ This week focused on advanced machine learning concepts and practices that go **
 ## 👩‍💻 Author
 
 **Sushma Sandanshiv**  
-BTech Data Science | Aspiring Data Analyst  
+BTech Data Science | Aspiring Data Scientist
 🔗 [LinkedIn](https://www.linkedin.com/in/sushma-sandanshiv-2740422b7/) • 🔗 [GitHub](https://github.com/sushma-prog)
 
 ---

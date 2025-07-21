@@ -111,7 +111,7 @@ This week focused on advanced machine learning concepts and practices that go **
 ## 📁 Project Repositories
 
 > ✅ All completed notebooks and projects from this Week are uploaded here:  
-🔗 [Advanced-ML]([https://github.com/sushma-prog/customer-churn-prediction](https://github.com/sushma-prog/Advanced-ML))
+🔗 [Advanced-ML]([https://github.com/sushma-prog/customer-churn-prediction](https://github.com/sushma-prog/Advanced-ML)
 
 ---
 
